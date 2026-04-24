@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "gaebalai-marketplace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude Code 생산성 플러그인 모음 — by gaebalai",
   "owner": {
     "name": "Jaewoo Kim",
@@ -12,7 +12,7 @@
     {
       "name": "memory-system",
       "description": "Markdown 기반 auto memory 시스템 — 프로젝트 간 지식 축적을 위한 4가지 메모리 타입(user/feedback/project/reference) 자동화 커맨드 모음",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "source": "./plugins/memory-system",
       "category": "productivity",
       "tags": ["memory", "korean", "productivity", "knowledge-management"]
