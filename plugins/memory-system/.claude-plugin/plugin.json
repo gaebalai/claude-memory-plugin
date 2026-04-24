@@ -1,0 +1,12 @@
+{
+  "name": "memory-system",
+  "version": "0.1.0",
+  "description": "Markdown 기반 auto memory 시스템. 4가지 메모리 타입으로 프로젝트 지식을 세션 간 축적합니다.",
+  "author": {
+    "name": "gaebalai",
+    "email": "your-email@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["memory", "markdown", "korean", "productivity"],
+  "homepage": "https://github.com/gaebalai/claude-memory-plugin"
+}
